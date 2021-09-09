@@ -170,7 +170,7 @@ section .title::after{
 /*home section styling*/
 .home{
     display: flex;
-    background: url("file:///C:/Users/santhosh/Desktop/Santhosh/Portfolio/banner3.jpg") no-repeat center;
+    background: url("banner3.jpg") no-repeat center;
     background-size: cover;
     background-attachment: fixed;
     height: 100vh;
